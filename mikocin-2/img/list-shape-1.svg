@@ -1,0 +1,15 @@
+<svg id="Группа_1" data-name="Группа 1" xmlns="http://www.w3.org/2000/svg" width="9.68" height="30" viewBox="0 0 9.68 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #aec3da;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Фигура_1" data-name="Фигура 1" class="cls-1" d="M1225,401h1v6h-1v-6Z" transform="translate(-1220.66 -401)"/>
+  <path id="Фигура_2" data-name="Фигура 2" class="cls-1" d="M1221.35,406.354l-0.7-.708,4-4,0.7,0.708Z" transform="translate(-1220.66 -401)"/>
+  <path id="Фигура_3" data-name="Фигура 3" class="cls-1" d="M1230.35,405.646l-0.7.708-4-4,0.7-.708Z" transform="translate(-1220.66 -401)"/>
+  <path id="Фигура_4" data-name="Фигура 4" class="cls-1" d="M1225,413h1v7h-1v-7Z" transform="translate(-1220.66 -401)"/>
+  <path id="Фигура_5" data-name="Фигура 5" class="cls-1" d="M1225,425h1v6h-1v-6Z" transform="translate(-1220.66 -401)"/>
+</svg>

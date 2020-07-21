@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="48.47" height="232.375" viewBox="0 0 48.47 232.375" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fd7532;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Rectangle_30_copy" data-name="Rectangle 30 copy" class="cls-1" d="M 1849 289 L 1852 289 C 1852 289 1892 329.652 1892 401 C 1892 472.151 1854.942 510.36 1854.942 510.36 L 1853.389 509.131 C 1853.389 509.131 1889 472.3 1889 401 C 1889 329.8 1849 289 1849 289 Z M 1860.82 515.008 L 1843.53 521.375 L 1845.3 502.719 L 1860.82 515.008 Z" transform="translate(-1843.53 -289)"/>
+  <rect x="8.957" y="233.22" width="3" height="2" style="fill: rgb(253, 117, 50); fill-rule: evenodd;" transform="matrix(-0.66157, 0.749884, -0.763396, -0.646254, 196.066452, 364.640594)"/>
+</svg>
