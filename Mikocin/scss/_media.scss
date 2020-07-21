@@ -37,9 +37,6 @@
 }
 
 @media (max-width: 992px){
-    body{
-        overflow-x: visible;
-    }
     .header{
         background-position: center top;
         background-size: cover;
@@ -58,10 +55,10 @@
     }
     .top-display__pills-wrap {
         max-width: 500px;
-        bottom: auto;
-        left: auto;
+        width: auto;
+        bottom: 0px;
+        left: 0px;
         margin-top: 50px;
-        width: 100%;
         margin-bottom: 50px;
         position: relative;
     }
