@@ -428,10 +428,6 @@ body {
   width: 100%;
   height: auto;
 }
-.top-display__pills {
-  max-width: 100%;
-  height: auto;
-}
 .top-display__pills-wrap {
   position: absolute;
   max-width: 640px;
@@ -459,6 +455,11 @@ body {
   position: absolute;
   top: 35%;
   left: 66%;
+}
+
+img.top-display__pills {
+  display: block;
+  max-width: 100%;
 }
 
 .top-title {
